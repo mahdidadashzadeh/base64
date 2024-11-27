@@ -1,0 +1,219 @@
+{
+ "name": "ربات چت ملوگپ(1)",
+ "type": "bot_chat",
+ "id": 962544049,
+ "messages": [
+  {
+   "id": 222879,
+   "type": "message",
+   "date": "2024-11-25T16:51:09",
+   "date_unixtime": "1732540869",
+   "from": "ربات چت ملوگپ(1)",
+   "from_id": "user962544049",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1142,
+   "height": 1280,
+   "text": [
+    "• نام:",
+    {
+     "type": "bold",
+     "text": "الناز"
+    },
+    "\n• جنسیت: دختر\n• استان: آذربایجان شرقی\n• شهر: تبریز\n• سن: 28\n\n هم اکنون 👀 آنلایـــن \n\n‏🆔 آیدی : ",
+    {
+     "type": "bot_command",
+     "text": "/user_dV3hV"
+    },
+    "\n\n\n🏁 فاصله از شما: نا معلوم"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "• نام:"
+    },
+    {
+     "type": "bold",
+     "text": "الناز"
+    },
+    {
+     "type": "plain",
+     "text": "\n• جنسیت: دختر\n• استان: آذربایجان شرقی\n• شهر: تبریز\n• سن: 28\n\n هم اکنون 👀 آنلایـــن \n\n‏🆔 آیدی : "
+    },
+    {
+     "type": "bot_command",
+     "text": "/user_dV3hV"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n🏁 فاصله از شما: نا معلوم"
+    }
+   ],
+   "inline_bot_buttons": [
+    [
+     {
+      "type": "callback",
+      "text": "Like🤍 111",
+      "dataBase64": "dXNlcl9hZGRsaWtlXzcwNzc1MzUzMjU",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "📨 پیام دایرکت",
+      "dataBase64": "dXNlcl9kaXJlY3RfNzA3NzUzNTMyNQ",
+      "data": ""
+     },
+     {
+      "type": "callback",
+      "text": "💬 درخواست چت",
+      "dataBase64": "dXNlcl9yZXF1ZXN0Q2hhdF83MDc3NTM1MzI1",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🔒بلاک کردن کاربر",
+      "dataBase64": "dXNlcl9ibG9ja183MDc3NTM1MzI1",
+      "data": ""
+     },
+     {
+      "type": "callback",
+      "text": "🚫 گزارش کاربر",
+      "dataBase64": "dXNlcl9yZXBvcnRfNzA3NzUzNTMyNQ",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "➕افزودن به مخاطبین",
+      "dataBase64": "dXNlcl9hZGR1c2VyXzcwNzc1MzUzMjU",
+      "data": ""
+     }
+    ]
+   ]
+  },
+  {
+   "id": 222884,
+   "type": "message",
+   "date": "2024-11-25T16:52:57",
+   "date_unixtime": "1732540977",
+   "from": "𝑀𝒶𝒽𝒹𝒾",
+   "from_id": "user5500534297",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/user_5eVy9"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/user_5eVy9"
+    }
+   ]
+  },
+  {
+   "id": 222885,
+   "type": "message",
+   "date": "2024-11-25T16:52:57",
+   "date_unixtime": "1732540977",
+   "from": "ربات چت ملوگپ(1)",
+   "from_id": "user962544049",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 952,
+   "height": 714,
+   "text": [
+    "• نام:",
+    {
+     "type": "bold",
+     "text": "فقط صحبت"
+    },
+    "\n• جنسیت: دختر\n• استان: آذربایجان شرقی\n• شهر: ترک\n• سن: 99\n\n هم اکنون 👀 آنلایـــن (درحال چت🗣)\n\n‏🆔 آیدی : ",
+    {
+     "type": "bot_command",
+     "text": "/user_5eVy9"
+    },
+    "\n\n\n🏁 فاصله از شما: نا معلوم"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "• نام:"
+    },
+    {
+     "type": "bold",
+     "text": "فقط صحبت"
+    },
+    {
+     "type": "plain",
+     "text": "\n• جنسیت: دختر\n• استان: آذربایجان شرقی\n• شهر: ترک\n• سن: 99\n\n هم اکنون 👀 آنلایـــن (درحال چت🗣)\n\n‏🆔 آیدی : "
+    },
+    {
+     "type": "bot_command",
+     "text": "/user_5eVy9"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n🏁 فاصله از شما: نا معلوم"
+    }
+   ],
+   "inline_bot_buttons": [
+    [
+     {
+      "type": "callback",
+      "text": "Like🤍 375",
+      "dataBase64": "dXNlcl9hZGRsaWtlXzczNjYzMTI2NjE",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "📨 پیام دایرکت",
+      "dataBase64": "dXNlcl9kaXJlY3RfNzM2NjMxMjY2MQ",
+      "data": ""
+     },
+     {
+      "type": "callback",
+      "text": "💬 درخواست چت",
+      "dataBase64": "dXNlcl9yZXF1ZXN0Q2hhdF83MzY2MzEyNjYx",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🔒بلاک کردن کاربر",
+      "dataBase64": "dXNlcl9ibG9ja183MzY2MzEyNjYx",
+      "data": ""
+     },
+     {
+      "type": "callback",
+      "text": "🚫 گزارش کاربر",
+      "dataBase64": "dXNlcl9yZXBvcnRfNzM2NjMxMjY2MQ",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "➕افزودن به مخاطبین",
+      "dataBase64": "dXNlcl9hZGR1c2VyXzczNjYzMTI2NjE",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🔔به محض اتمام چت به من اطلاع بده",
+      "dataBase64": "dXNlcl9DaGF0Tm90aWZfNzM2NjMxMjY2MQ",
+      "data": ""
+     }
+    ]
+   ]
+  }
+ ]
+}
